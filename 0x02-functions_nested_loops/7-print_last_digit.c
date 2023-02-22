@@ -1,17 +1,17 @@
 #include "main.h"
 
-/*
- *print_last_digit - prints the last digit of a number
- *@n: the int to extract the last digit from
- *Return: value of the last digit
-*/
+/**
+ * print_last_digit - Prints last digit of a number
+ * @n: The number to be treated
+ * Return: Value of the last digit of number
+ */
 
 int print_last_digit(int n)
-
 {
+
 	int last;
 
-        last = n % 10;
+	last = n % 10;
 	if (last < 0)
 	{
 	last = last * -1;
