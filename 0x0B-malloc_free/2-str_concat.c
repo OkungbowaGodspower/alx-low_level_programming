@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 /**
+
  * str_concat - concatenate two strings using malloc
  * @s1: string 1
  * @s2: string 2
