@@ -4,8 +4,6 @@
 #define _LISTS_
 #ifndef _LISTS_
 
-
-
 /**
  * struct listint_s - (singly linked list)
  * @n: integer type
