@@ -6,6 +6,8 @@
   * main - starting (entry) point of the program
   * printf - write the string to standard output
   * non - function statement block (if , else if, else)
+  * Description: prints random numbers and check -
+  * - if the condition is true 
   *
   * Return: returns (0) for success
   */
