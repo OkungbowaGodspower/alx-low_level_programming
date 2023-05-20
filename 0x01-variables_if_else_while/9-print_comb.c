@@ -13,7 +13,6 @@ int main(void)
 	for (; num < 10; num++)
 	{
 		putchar(num + '0');
-	}
 	if (num < 9)
 	{
 		putchar(',');
@@ -21,6 +20,7 @@ int main(void)
 	if (num < 9)
 	{
 		putchar(' ');
+	}
 	}
 	putchar('\n');
 	return (0);
