@@ -5,7 +5,7 @@
 /**
   * main - starting (entry) point of the program
   * printf - write the string to standard output
-  * non - function statement block (if , else if, else) 
+  * non - function statement block (if , else if, else)
   *
   * Return: returns (0) for success
   */
