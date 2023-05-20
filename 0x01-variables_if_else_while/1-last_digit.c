@@ -6,7 +6,8 @@
   * main - starting (entry) point of the program
   * printf - write the string to standard output
   * non - function statement block (if , else if, else)
-  *
+  * Description: prints random numbers and check if
+  * - condistion is true else move to next condition
   * Return: returns (0) for success
   */
 int main(void)
