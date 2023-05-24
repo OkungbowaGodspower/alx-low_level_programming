@@ -24,8 +24,8 @@ void times_table(void)
 				_putchar(44);
 				/* 32 is ' ' in ASCII */
 				_putchar(32);
-				_putchar(b + '0');
 				_putchar(c + '0');
+				_putchar(b + '0');
 			}
 			else
 			{
