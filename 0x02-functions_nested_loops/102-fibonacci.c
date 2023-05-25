@@ -22,7 +22,7 @@ int main(void)
 			x = y - x;
 			printf(", %ld", y);
 		}
-		++counter
+		++counter;
 	}
 	printf("\n");
 	return (0);
