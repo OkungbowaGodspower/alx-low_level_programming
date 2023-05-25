@@ -10,17 +10,17 @@ int main(void)
 	int counter = 0;
 	long int  x = 1, y = 2;
 
-	while (counte < 50)
+	while (counter < 50)
 	{
 		if (counter == 0)
-			printf("%d", x);
+			printf("%ld", x);
 		else if (counter == 1)
-			printf(", %d", y);
+			printf(", %ld", y);
 		else
 		{
 			y = y + x;
 			x = y - x;
-			printf(", %d", y);
+			printf(", %ld", y);
 		}
 		++counter
 	}
