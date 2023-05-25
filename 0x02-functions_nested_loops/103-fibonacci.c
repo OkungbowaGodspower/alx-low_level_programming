@@ -14,11 +14,9 @@ int main(void)
 	{
 		y = y + x;
 		if (y % 2 == 0)
-		{
 			sum = sum + y;
 			x = y - x;
 			++counter;
-		}
 	}
 	printf("%ld\n", sum);
 	return (0);
