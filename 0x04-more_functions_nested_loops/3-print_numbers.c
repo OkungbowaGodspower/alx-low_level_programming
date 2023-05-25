@@ -13,4 +13,5 @@ void print_numbers(void)
 
 	for (n = 0; n < 10; n = n + 1)
 		_putchar(n + '0');
+	_putchar('\n');
 }
