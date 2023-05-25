@@ -4,9 +4,12 @@
  * mul - multiplies two integers
  * @a: integer to check
  * @b: integer to check
- * Return: return (mult)
+ * Return: return (mul)
  */
-mul(int a, int b)
+int mul(int a, int b)
 {
-	return (a * b);
+	int mul;
+
+	mul = a * b;
+	return (mul);
 }
