@@ -4,14 +4,15 @@
  * print_numbers - prints digits from
  * - from (0 through 9)
  *
- * @n: variable to print
- * Return: return nothing
+ * Return: return (0);
  */
 void print_numbers(void)
 {
-	int n;
+	int c;
 
-	for (n = 0; n < 10; n = n + 1)
-		_putchar(n + '0');
+	for (c = 48; c < 58; c++)
+	{
+		_putchar(c);
+	}
 	_putchar('\n');
 }
