@@ -4,7 +4,7 @@
  * print_most_numbers - prints didgits
  * - excluding 2 and 4
  *
- * Return: return (o)
+ * Return: return (0)
  */
 void print_most_numbers(void)
 {
