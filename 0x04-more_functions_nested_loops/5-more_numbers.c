@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * more_numbers - prints didgits
+ * more_numbers - print didgits
  * - from  to 14, ten times
  *
  * Return: return (0)
